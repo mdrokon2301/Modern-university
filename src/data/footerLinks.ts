@@ -1,0 +1,36 @@
+export const footerLinks = {
+  study: [
+    { name: 'Course Finder', href: '/courses' },
+    { name: 'Undergraduate study', href: '/undergraduate' },
+    { name: 'Postgraduate study', href: '/postgraduate' },
+    { name: 'Short courses and CPD', href: '/short-courses' },
+    { name: 'International students', href: '/international' },
+    { name: 'Study online', href: '/online' },
+    { name: 'Apprenticeships', href: '/apprenticeships' },
+    { name: 'Summer Schools', href: '/summer-schools' },
+  ],
+  life: [
+    { name: 'Student life', href: '/student-life' },
+    { name: 'Student accommodation', href: '/accommodation' },
+    { name: 'Sports Centre', href: '/sports' },
+    { name: 'Main Campus', href: '/main-campus' },
+    { name: 'City Campus', href: '/city-campus' },
+    { name: 'Careers and Employability', href: '/careers' },
+    { name: 'Student support', href: '/support' },
+  ],
+  research: [
+    { name: 'Research excellence', href: '/research-excellence' },
+    { name: 'Research showcase', href: '/research-showcase' },
+    { name: 'Media requests', href: '/media' },
+    { name: 'Research Excellence Framework', href: '/ref' },
+    { name: 'Research institutes and centres', href: '/institutes' },
+  ],
+  explore: [
+    { name: 'About us', href: '/about' },
+    { name: 'Departments', href: '/departments' },
+    { name: 'Contact us', href: '/contact' },
+    { name: 'How to pay your fees', href: '/fees' },
+    { name: 'Jobs', href: '/jobs' },
+    { name: 'A-Z', href: '/directory' },
+  ],
+};
